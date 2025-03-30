@@ -1,0 +1,6 @@
+Exam Name: ex ex ex
+Duration (minutes): 34
+Total Questions: 10
+Instructor: r
+Questions File: ../data/exams/questions_ex ex ex.txt
+Answers File: ../data/exams/answers_ex ex ex.txt

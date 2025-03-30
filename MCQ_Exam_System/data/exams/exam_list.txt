@@ -1,0 +1,7 @@
+os|../data/exams/metadata_os.txt
+os|../data/exams/metadata_os.txt
+osa|../data/exams/metadata_osa.txt
+my|../data/exams/metadata_my.txt
+mid sem examinations|../data/exams/metadata_mid sem examinations.txt
+ex ex ex|../data/exams/metadata_ex ex ex.txt
+Basics of Programming|../data/exams/metadata_Basics of Programming.txt
