@@ -1,6 +1,0 @@
-Exam Name: Basics of Programming
-Duration (minutes): 30
-Total Questions: 10
-Instructor: Jay
-Questions File: ../data/exams/questions_Basics of Programming.txt
-Answers File: ../data/exams/answers_Basics of Programming.txt

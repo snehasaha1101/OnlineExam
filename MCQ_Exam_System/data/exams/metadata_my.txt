@@ -1,6 +1,0 @@
-Exam Name: my
-Duration (minutes): 0
-Total Questions: 10
-Instructor: q
-Questions File: ../data/exams/questions_my.txt
-Answers File: ../data/exams/answers_my.txt

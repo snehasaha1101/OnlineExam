@@ -1,6 +1,0 @@
-Exam Name: osa
-Duration (minutes): 21
-Total Questions: 10
-Instructor: r
-Questions File: ../data/exams/questions_osa.txt
-Answers File: ../data/exams/answers_osa.txt

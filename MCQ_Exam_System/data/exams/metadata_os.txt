@@ -1,6 +1,0 @@
-Exam Name: os
-Duration (minutes): 90
-Total Questions: 10
-Instructor: r
-Questions File: ../data/exams/questions_os.txt
-Answers File: ../data/exams/answers_os.txt
